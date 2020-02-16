@@ -15,16 +15,27 @@ ex: <link rel="stylesheet" href="styles.css">.
 - mirgin,padding,border etc
 
 **How JavaScript Instructed?**
+
 *JavaScript Can Change HTML Content,One of many JavaScript HTML methods is **getElementById()***
+
 EX:
 innerHTML = "Hello JavaScript";
+
+
 *JavaScript accepts both double and **single quotes***
+
 EX:
 innerHTML = 'Hello JavaScript';
+
+
 *JavaScript Can **Change HTML** Styles (CSS)*
+
 EX:
 style.fontSize = "35px";
+
+
 *JavaScript Can **Hide HTML** Elements*
+
 EX:style.display = "none";
 
 **what is Decision Making and Loops in javascript?**
