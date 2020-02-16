@@ -3,7 +3,7 @@
 
 | Read #           |     URL
 |------------------|----------------
-|Read 1            |(link)[https://yamama95.github.io/Reading-notes/class-01.md]
+|Read 1            |[link](https://yamama95.github.io/Reading-notes/class-01.md)
 |Read 2            |[]()
 |Read 3            |[]()
 |Read 4            |[]()
@@ -24,11 +24,9 @@
 
 
 
-<<<<<<< HEAD
-=======
 
 
 
 
 
->>>>>>> a9ef40d4ede998ad1b4b901455663f641ca8e13b
+
