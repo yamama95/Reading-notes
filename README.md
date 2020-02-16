@@ -3,7 +3,7 @@
 
 | Read #           |     URL
 |------------------|----------------
-|Read 1            |[link](https://yamama95.github.io/Reading-notes/class-01.md)
+|Read 1            |[link](https://yamama95.github.io/Reading-notes/class-01)
 |Read 2            |[]()
 |Read 3            |[]()
 |Read 4            |[]()
