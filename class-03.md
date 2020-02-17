@@ -9,7 +9,7 @@
 
 All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.
 
-*Box contain four important parts :
+**Box contain four important parts :**
 - content:The content of the box, where text and images appear
 
 - paddding:Clears an area around the content. The padding is transparent
