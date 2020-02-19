@@ -2,12 +2,11 @@
 
 **Images** 
 
-*In order to put a simple image on a webpage, we use the <img> element,that requires a minimum of one attribute to be useful — src*
-*Elements like <img> and <video> are sometimes referred to as replaced elements*
+*In order to put a simple image on a webpage, we use the img element,that requires a minimum of one attribute to be useful src Elements like img and video are sometimes referred to as replaced elements*
 
 **color in HTML**
 
-*Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names*
+*we use color to style our page and make it nicer Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names*
 
 
 **HTML Text**
