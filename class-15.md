@@ -1,0 +1,9 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+
+*Our data-saturated age enables us to examine our work habits and office quirks with a scrutiny that our cubicle-bound forebears could only dream of. Today, on corporate campuses and within university laboratories, psychologists, sociologists and statisticians are devoting themselves to studying everything from team composition to email patterns in order to figure out how to make employees into faster, better and more productive versions of themselves. ‘‘We’re living through a golden age of understanding personal productivity,’’ says Marshall Van Alstyne, a professor at Boston University who studies how people share information.*
+
+-  **The Harvard Business Review last month**, found that ‘‘the time spent by managers and employees in collaborative activities has ballooned by 50 percent or more’’ over the last two decades and that, at many companies, more than three-quarters of an employee’s day is spent communicating with colleagues.
+
+***Project Aristotle’s researchers** began by reviewing a half-century of academic studies looking at how teams worked. Were the best teams made up of people with similar interests? Or did it matter more whether everyone was motivated by the same kinds of rewards? Based on those studies, the researchers scrutinized the composition of groups inside Google*
+
+***In late 2014, Rozovsky and her fellow Project Aristotle number-crunchers** began sharing their findings with select groups of Google’s 51,000 employees. By then, they had been collecting surveys, conducting interviews and analyzing statistics for almost three years. They hadn’t yet figured out how to make psychological safety easy, but they hoped that publicizing their research within Google would prompt employees to come up with some ideas of their own.*
